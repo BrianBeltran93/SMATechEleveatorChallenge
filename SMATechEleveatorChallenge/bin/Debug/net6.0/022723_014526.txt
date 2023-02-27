@@ -1,0 +1,12 @@
+[2/27/2023 1:45:28 PM] Floor Request: 4U
+[2/27/2023 1:45:28 PM] Elevator passed floor 1
+[2/27/2023 1:45:29 PM] Floor Request: 2D
+[2/27/2023 1:45:31 PM] Elevator passed floor 2
+[2/27/2023 1:45:33 PM] Floor Request: 3U
+[2/27/2023 1:45:34 PM] Elevator passed floor 3
+[2/27/2023 1:45:37 PM] Elevator stopped at floor 4
+[2/27/2023 1:45:38 PM] Elevator passed floor 4
+[2/27/2023 1:45:41 PM] Elevator passed floor 3
+[2/27/2023 1:45:44 PM] Elevator stopped at floor 2
+[2/27/2023 1:45:45 PM] Elevator passed floor 2
+[2/27/2023 1:45:48 PM] Elevator stopped at floor 3

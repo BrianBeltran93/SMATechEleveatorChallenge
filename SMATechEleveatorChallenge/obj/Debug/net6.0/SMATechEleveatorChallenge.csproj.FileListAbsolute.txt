@@ -1,0 +1,15 @@
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\bin\Debug\net6.0\SMATechEleveatorChallenge.exe
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\bin\Debug\net6.0\SMATechEleveatorChallenge.deps.json
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\bin\Debug\net6.0\SMATechEleveatorChallenge.runtimeconfig.json
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\bin\Debug\net6.0\SMATechEleveatorChallenge.dll
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\bin\Debug\net6.0\SMATechEleveatorChallenge.pdb
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\obj\Debug\net6.0\SMATechEleveatorChallenge.csproj.AssemblyReference.cache
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\obj\Debug\net6.0\SMATechEleveatorChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\obj\Debug\net6.0\SMATechEleveatorChallenge.AssemblyInfoInputs.cache
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\obj\Debug\net6.0\SMATechEleveatorChallenge.AssemblyInfo.cs
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\obj\Debug\net6.0\SMATechEleveatorChallenge.csproj.CoreCompileInputs.cache
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\obj\Debug\net6.0\SMATechEleveatorChallenge.dll
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\obj\Debug\net6.0\refint\SMATechEleveatorChallenge.dll
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\obj\Debug\net6.0\SMATechEleveatorChallenge.pdb
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\obj\Debug\net6.0\SMATechEleveatorChallenge.genruntimeconfig.cache
+C:\Users\BBelt\source\repos\SMATechEleveatorChallenge\SMATechEleveatorChallenge\obj\Debug\net6.0\ref\SMATechEleveatorChallenge.dll
